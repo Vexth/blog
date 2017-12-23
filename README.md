@@ -6,4 +6,3 @@
 ### Go
 - [1.开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
 
-ni
