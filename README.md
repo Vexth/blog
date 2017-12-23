@@ -1,6 +1,9 @@
-# blog
+## 记录学习的点点滴滴
 
 貌似好多人都用GitHub来搭建个blog，我也来试试看^__^
 
 
-[开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
+### Go语言
+- [1.开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
+
+
