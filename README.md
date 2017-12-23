@@ -3,7 +3,7 @@
 貌似好多人都用GitHub来搭建个blog，我也来试试看^__^
 
 
-### Go语言
+### Go
 - [1.开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
 
 
