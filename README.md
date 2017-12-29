@@ -11,3 +11,4 @@
 
 ### Node
 - [1.简单的Node网页内容抓取实战](https://github.com/Vexth/blog/issues/5)
+- [2.ES6中各种神奇数组去重方式来看解构的强大](https://github.com/Vexth/blog/issues/6)
