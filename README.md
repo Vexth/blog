@@ -11,6 +11,7 @@
 - [5.一个Go语言的网页抓取程序](https://github.com/Vexth/blog/issues/7)
 - [6.在函数间传递映射](https://github.com/Vexth/blog/issues/8)
 - [7.bytes.Buffer也可以用于io.Copy函数](https://github.com/Vexth/blog/issues/9)
+- [8.在Go语言如何使用接口](https://github.com/Vexth/blog/issues/10)
 
 ### Node(JavaScript)
 - [1.简单的Node网页内容抓取实战](https://github.com/Vexth/blog/issues/5)
