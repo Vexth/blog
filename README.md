@@ -19,3 +19,4 @@
 - [2.ES6中各种神奇数组去重方式来看解构的强大](https://github.com/Vexth/blog/issues/6)
 - [3.React项目搭建的基础设置](https://github.com/Vexth/blog/issues/12)
 - [4.使用Koa2+MongoDB搭建一个简单的基础后台](https://github.com/Vexth/blog/issues/13)
+- [5.JS现有的数据类型](https://github.com/Vexth/blog/issues/14)
