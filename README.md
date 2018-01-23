@@ -24,5 +24,5 @@
 - [7、使用切片slice与解构来解决数组元素位移](https://github.com/Vexth/blog/issues/16)
 
 ### 面试
-- [1、阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
+- [1、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
 
