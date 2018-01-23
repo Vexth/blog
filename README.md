@@ -20,7 +20,7 @@
 - [3、React项目搭建的基础设置](https://github.com/Vexth/blog/issues/12)
 - [4、使用Koa2+MongoDB搭建一个简单的基础后台](https://github.com/Vexth/blog/issues/13)
 - [5、JS现有的数据类型](https://github.com/Vexth/blog/issues/14)
-- [6、写JavaScript代码的时候还是要加上分号的，为什么呢？我也不知道……](https://github.com/Vexth/blog/issues/15)
+- [6、写JavaScript代码的时候还是要加上分号的，为什么呢？我也不知道:laughing::laughing:](https://github.com/Vexth/blog/issues/15)
 - [7、使用切片slice与解构来解决数组元素位移](https://github.com/Vexth/blog/issues/16)
 
 ### 面试
