@@ -14,6 +14,7 @@
 - [8、在Go语言如何使用接口](https://github.com/Vexth/blog/issues/10)
 - [9、Go语言在内存里面存储数据](https://github.com/Vexth/blog/issues/11)
 - [10、Golang读取文件内容](https://github.com/Vexth/blog/issues/18)
+- [11、golang实现简易web服务的三种方式](https://github.com/Vexth/blog/issues/19)
 
 ### Node(JavaScript)
 - [1、简单的Node网页内容抓取实战](https://github.com/Vexth/blog/issues/5)
