@@ -24,7 +24,8 @@
 - [04、使用Koa2+MongoDB搭建一个简单的基础后台](https://github.com/Vexth/blog/issues/13)
 - [05、JS现有的数据类型](https://github.com/Vexth/blog/issues/14)
 - [06、写JavaScript代码的时候还是要加上分号的，为什么呢？我也不知道:laughing::laughing:](https://github.com/Vexth/blog/issues/15)
-- [7、使用切片slice与解构来解决数组元素位移](https://github.com/Vexth/blog/issues/16)
+- [07、使用切片slice与解构来解决数组元素位移](https://github.com/Vexth/blog/issues/16)
+- [08、nodejs v8.x 使用import提示SyntaxError: Unexpected token import的解决方案](https://github.com/Vexth/blog/issues/21)
 
 ### 面试
 - [01、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
