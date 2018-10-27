@@ -3,6 +3,9 @@
 貌似好多人都用GitHub来搭建个blog，我也来试试看^__^
 
 
+### 算法
+- [01、二分法（golang）](https://github.com/Vexth/blog/issues/23)
+
 ### Go
 - [01、开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
 - [02、为什么学习Go Web开发？](https://github.com/Vexth/blog/issues/2)
