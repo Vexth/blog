@@ -2,6 +2,8 @@
 
 貌似好多人都用GitHub来搭建个blog，我也来试试看^__^
 
+嗯嗯…… 刷题的话一天就三道咯，好好学习，天天向上呀 :laughing::laughing::laughing::laughing:
+
 
 ### 算法
 - [01、二分法（golang）](https://github.com/Vexth/blog/issues/23)
