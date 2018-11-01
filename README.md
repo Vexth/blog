@@ -5,6 +5,9 @@
 
 ### 算法
 - [01、二分法（golang）](https://github.com/Vexth/blog/issues/23)
+- [02、Nim游戏（golang）](https://github.com/Vexth/blog/issues/24)
+- [03、反转字符串（golang）](https://github.com/Vexth/blog/issues/25)
+- [04、反转字符串中的单词 III（golang）](https://github.com/Vexth/blog/issues/26)
 
 ### Go
 - [01、开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
