@@ -36,6 +36,7 @@
 - [08、nodejs v8.x 使用import提示SyntaxError: Unexpected token import的解决方案](https://github.com/Vexth/blog/issues/21)
 - [09、JavaScript操作cookie代码片段](https://github.com/Vexth/blog/issues/27)
 - [10、JavaScript图片压缩](https://github.com/Vexth/blog/issues/28)
+- [11、axios全局监听与请求超时处理](https://github.com/Vexth/blog/issues/29)
 
 ### 面试
 - [01、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
