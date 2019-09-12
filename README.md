@@ -10,6 +10,7 @@
 - [02、Nim游戏（golang）](https://github.com/Vexth/blog/issues/24)
 - [03、反转字符串（golang）](https://github.com/Vexth/blog/issues/25)
 - [04、反转字符串中的单词 III（golang）](https://github.com/Vexth/blog/issues/26)
+- [04、快速排序（JavaScript）](https://github.com/Vexth/blog/issues/33)
 
 ### Go
 - [01、开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
