@@ -39,6 +39,7 @@
 - [10、JavaScript图片压缩](https://github.com/Vexth/blog/issues/28)
 - [11、axios全局监听与请求超时处理](https://github.com/Vexth/blog/issues/29)
 - [12、antd 上传组件的封装](https://github.com/Vexth/blog/issues/35)
+- [13、JavaScript常用方法](https://github.com/Vexth/blog/issues/36)
 
 ### 面试
 - [01、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
