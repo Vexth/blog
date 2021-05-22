@@ -42,6 +42,9 @@
 - [13、JavaScript常用方法](https://github.com/Vexth/blog/issues/36)
 - [14、JavaScript中如何实现 new](https://github.com/Vexth/blog/issues/37)
 
+### 前端开发
+- [01、使用Angular搭建微前端项目实例](https://github.com/Vexth/blog/issues/38)
+
 ### 面试
 - [01、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
 
