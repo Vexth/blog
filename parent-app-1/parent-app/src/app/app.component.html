@@ -1,0 +1,23 @@
+<div id="app">
+    <div style="flex: 1;">
+        <ul>
+            <li>
+                <a [routerLink]="'/library-app'">书单</a>
+            </li>
+            <li>
+                <a [routerLink]="'/child-app'">表单</a>
+            </li>
+        </ul>
+    </div>
+    
+    <div style="flex: 6;">
+        <router-outlet></router-outlet>
+    </div>
+</div>
+
+<style>
+    #app {
+        display: flex;
+        flex: 7;
+    }
+</style>
