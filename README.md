@@ -12,7 +12,7 @@
 - [04、反转字符串中的单词 III（golang）](https://github.com/Vexth/blog/issues/26)
 - [05、快速排序（JavaScript）](https://github.com/Vexth/blog/issues/33)
 - [06、两数相加（golang）](https://github.com/Vexth/blog/issues/39)
-- [07、罗马数字转整数](https://github.com/Vexth/blog/issues/40)
+- [07、罗马数字转整数（golang）](https://github.com/Vexth/blog/issues/40)
 
 ### Go
 - [01、开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
