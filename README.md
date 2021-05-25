@@ -13,6 +13,7 @@
 - [05、快速排序（JavaScript）](https://github.com/Vexth/blog/issues/33)
 - [06、两数相加（golang）](https://github.com/Vexth/blog/issues/39)
 - [07、罗马数字转整数（golang）](https://github.com/Vexth/blog/issues/40)
+- [08、最长公共前缀（golang）](https://github.com/Vexth/blog/issues/41)
 
 ### Go
 - [01、开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
