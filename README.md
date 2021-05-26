@@ -14,6 +14,7 @@
 - [06、两数相加（golang）](https://github.com/Vexth/blog/issues/39)
 - [07、罗马数字转整数（golang）](https://github.com/Vexth/blog/issues/40)
 - [08、最长公共前缀（golang）](https://github.com/Vexth/blog/issues/41)
+- [09、无重复字符的最长子串（golang）](https://github.com/Vexth/blog/issues/42)
 
 ### Go
 - [01、开始Go语言的学习](https://github.com/Vexth/blog/issues/1)
