@@ -50,6 +50,7 @@
 
 ### 前端开发
 - [01、使用Angular搭建微前端项目实例](https://github.com/Vexth/blog/issues/38)
+- [02、实现前端版本EventEmitter并封装WebSocket](https://github.com/Vexth/blog/issues/42)
 
 ### 面试
 - [01、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
