@@ -1,5 +1,8 @@
 ## 记录学习的点点滴滴
 
+`vscode`替换相同字符串
+`^(.+)((?:\r?\n.*)*)(?:\r?\n\1)$` => `$1$2`
+
 貌似好多人都用GitHub来搭建个blog，我也来试试看^__^
 
 嗯嗯…… 刷题的话一天就三道咯，好好学习，天天向上呀 :laughing::laughing::laughing::laughing:
@@ -45,9 +48,12 @@
 - [12、antd 上传组件的封装](https://github.com/Vexth/blog/issues/35)
 - [13、JavaScript常用方法](https://github.com/Vexth/blog/issues/36)
 - [14、JavaScript中如何实现 new](https://github.com/Vexth/blog/issues/37)
+- [15、实现JavaScript中groupBy与groupByMap](https://github.com/Vexth/blog/issues/104)
 
 ### 前端开发
 - [01、使用Angular搭建微前端项目实例](https://github.com/Vexth/blog/issues/38)
+- [02、实现前端版本EventEmitter并封装WebSocket](https://github.com/Vexth/blog/issues/67)
+- [03、JS 手写题](https://github.com/Vexth/blog/issues/68)
 
 ### 面试
 - [01、记一次阿里巴巴技术电话面试的几个问题](https://github.com/Vexth/blog/issues/17)
